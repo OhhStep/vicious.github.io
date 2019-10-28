@@ -1,2 +1,2 @@
-# vicious.github.io
+# viciouscyclesproject.github.io
 Assignments
